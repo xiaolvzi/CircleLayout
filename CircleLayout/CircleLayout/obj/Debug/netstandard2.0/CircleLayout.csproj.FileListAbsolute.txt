@@ -1,0 +1,11 @@
+C:\VS_WorkSpace\CircleLayout\CircleLayout\CircleLayout\bin\Debug\netstandard2.0\CircleLayout.deps.json
+C:\VS_WorkSpace\CircleLayout\CircleLayout\CircleLayout\bin\Debug\netstandard2.0\CircleLayout.dll
+C:\VS_WorkSpace\CircleLayout\CircleLayout\CircleLayout\bin\Debug\netstandard2.0\CircleLayout.pdb
+C:\VS_WorkSpace\CircleLayout\CircleLayout\CircleLayout\obj\Debug\netstandard2.0\CircleLayout.csproj.CoreCompileInputs.cache
+C:\VS_WorkSpace\CircleLayout\CircleLayout\CircleLayout\obj\Debug\netstandard2.0\CircleLayout.App.xaml.g.cs
+C:\VS_WorkSpace\CircleLayout\CircleLayout\CircleLayout\obj\Debug\netstandard2.0\CircleLayout.MainPage.xaml.g.cs
+C:\VS_WorkSpace\CircleLayout\CircleLayout\CircleLayout\obj\Debug\netstandard2.0\CircleLayout.AssemblyInfoInputs.cache
+C:\VS_WorkSpace\CircleLayout\CircleLayout\CircleLayout\obj\Debug\netstandard2.0\CircleLayout.AssemblyInfo.cs
+C:\VS_WorkSpace\CircleLayout\CircleLayout\CircleLayout\obj\Debug\netstandard2.0\CircleLayout.dll
+C:\VS_WorkSpace\CircleLayout\CircleLayout\CircleLayout\obj\Debug\netstandard2.0\CircleLayout.pdb
+C:\VS_WorkSpace\CircleLayout\CircleLayout\CircleLayout\obj\Debug\netstandard2.0\CircleLayout.csprojResolveAssemblyReference.cache
